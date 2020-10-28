@@ -1,7 +1,7 @@
-<h2> Hola, I'm Keya Mallick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hola, I'm Keya Mallick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h4><em>I'm a Front-End Web Developer!!! <a href="https://bangla2.programming-hero.com">Programming-Hero</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></h4>
+<h2><em>I'm a Front-End Web Developer!!! <a href="https://bangla2.programming-hero.com">Programming-Hero</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I'm Keya Mallick. Bakita bektigoto...😄😄😄
