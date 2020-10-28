@@ -10,7 +10,7 @@ I'm Keya Mallick. Bakita bektigoto...😄😄😄
 - 🌱 I’m currently learning everything
 - ⚡ I always try to do something new
 <br/>
-[![Resume] Resume](https://drive.google.com/file/d/1IfvuUJcX5Fh9f83uH4LKj1HpNluxMLG9/view?usp=sharing)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://drive.google.com/file/d/1IfvuUJcX5Fh9f83uH4LKj1HpNluxMLG9/view?usp=sharing)
 [![Resume] Resume](https://drive.google.com/file/d/1IfvuUJcX5Fh9f83uH4LKj1HpNluxMLG9/view?usp=sharing)
 [![ReadMe Card]](https://drive.google.com/file/d/1IfvuUJcX5Fh9f83uH4LKj1HpNluxMLG9/view?usp=sharing)
 
