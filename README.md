@@ -40,12 +40,16 @@ I'm Keya Mallick. Bakita bektigoto...😄😄😄
 [![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/BoboMallick)
 <br/>
 <br/>
+
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoboMallick&repo=creative-agency&show_owner=true)](https://github.com/BoboMallick/creative-agency)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+<br/>
+<br/>
 
 ## 📫 How to reach me: 
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/keya-mallick-7198b91ba/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/BoboMallick) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://github.com/BoboMallick) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/)
 <!--
 
