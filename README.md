@@ -44,7 +44,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/keya-mallick-7198b91ba/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/keya-mallick-7198b91ba/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/BoboMallick) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://github.com/BoboMallick) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/)
 <!--
 
 
