@@ -37,7 +37,7 @@ I'm Keya Mallick. Bakita bektigoto...😄😄😄
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/BoboMallick)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoboMallick&show_icons=true&count_private=true)](https://github.com/BoboMallick)
 <br/>
 <br/>
 
