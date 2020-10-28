@@ -13,9 +13,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
-<!--
 
 ### Programming Languages 🌐
 
@@ -26,6 +23,10 @@
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
 |---|---|---|---|---|---|---|---|---|
+
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+<!--
 
 ### Github Stats
 
