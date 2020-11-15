@@ -12,7 +12,7 @@ I'm Keya Mallick. Bakita bektigoto...😄😄😄
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br/>
-<h2><a href="https://drive.google.com/file/d/1IfvuUJcX5Fh9f83uH4LKj1HpNluxMLG9/view?usp=sharing">Resume is here</a></h2> 
+<h2><a href="https://drive.google.com/file/d/1QuSvkdWROIxP4nmyfFyHcYmU45sA0ZdA/view?usp=sharing">Resume is here</a></h2> 
 <br/>
 <br/>
 
